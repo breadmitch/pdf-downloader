@@ -66,16 +66,6 @@ The finished `.exe` will appear in:
 dist/Mining Report PDF Downloader.exe
 ```
 
-## Suggested GitHub release workflow
-
-1. Create a GitHub repository named `mining-report-pdf-downloader`.
-2. Upload this project folder.
-3. Build the `.exe` locally on Windows using PyInstaller.
-4. Go to **GitHub → Releases → Create a new release**.
-5. Use tag `v1.0.0`.
-6. Attach the `.exe` from the `dist/` folder.
-7. Link people to the release page.
-
 ## Disclaimer
 
 This tool is intended for downloading publicly available documents only. Users are responsible for respecting website terms of service, robots.txt rules, copyright, rate limits, and applicable laws. Do not use this tool to bypass access controls or download restricted materials.
