@@ -74,4 +74,3 @@ This tool is intended for downloading publicly available documents only. Users a
 
 If this tool saves you time, consider supporting future development.
 
-Donation/support link: `add your link here`
