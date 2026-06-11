@@ -2,7 +2,7 @@
 
 A simple Windows desktop utility for finding and downloading PDF links from public web pages.
 
-This was designed for research workflows where a user needs to collect publicly available report PDFs, such as technical mining reports, from pages that list direct PDF links.
+This was designed for research workflows where a user needs to collect publicly available report PDFs from pages that list direct PDF links.
 
 ## Features
 
