@@ -341,7 +341,7 @@ class PDFDownloaderGUI(QWidget):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("Simple NI 43-101 PDF Downloader")
+        self.setWindowTitle("PDF Downloader")
         self.resize(900, 600)
 
         self.pdf_items = []
