@@ -1,4 +1,4 @@
-# Mining Report PDF Downloader
+# PDF Downloader
 
 A simple Windows desktop utility for finding and downloading PDF links from public web pages.
 
@@ -57,13 +57,13 @@ pip install pyinstaller
 Build a single-file Windows app:
 
 ```bash
-pyinstaller --onefile --windowed --name "Mining Report PDF Downloader" app.py
+pyinstaller --onefile --windowed --name "PDF Downloader" app.py
 ```
 
 The finished `.exe` will appear in:
 
 ```text
-dist/Mining Report PDF Downloader.exe
+dist/PDF Downloader.exe
 ```
 
 ## Disclaimer
