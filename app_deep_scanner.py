@@ -30,7 +30,7 @@ from PyQt6.QtWidgets import (
 from PyQt6.QtCore import Qt
 
 
-USER_AGENT = "NI43101ResearchDownloader/1.1"
+USER_AGENT = "Downloader/1.1"
 DEFAULT_DELAY_SECONDS = 3
 TIMEOUT = 30
 
