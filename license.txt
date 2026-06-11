@@ -1,0 +1,9 @@
+## Support
+
+This project is provided free of charge.
+
+If this tool saves you time and you would like to support future development, donations are appreciated but never required.
+
+For questions, feedback, feature requests, or support inquiries:
+
+[mitchellbreadmore@gmail.com](mailto:mitchellbreadmore@gmail.com)
