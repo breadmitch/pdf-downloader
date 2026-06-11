@@ -16,6 +16,7 @@ This was designed for research workflows where a user needs to collect publicly 
 - Verify downloaded files begin with a PDF header
 - Skip files that already exist
 - Create a `download_log.csv` with metadata including URL, file size, status, and SHA-256 hash
+- added button to scan links on url for more pdfs, up to 3 links and 50 pdfs
 
 ## Requirements for running from source
 
